@@ -1,0 +1,29 @@
+.gora {
+    background-color: #FFCA0C;
+    margin-bottom: 150px;
+    background-image: url(zupa.png) ;
+    background-repeat: no-repeat; 
+    background-position:  80% bottom;
+}
+.btn {
+    font-weight: bold;
+    color: #e71414;
+    border-color: #e71414;
+    background-color:  #e71414;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+
+}
+.gora2 {
+    background-color: white;
+    margin-bottom: 150px;
+    background-repeat: no-repeat; 
+    background-position:  80% bottom;
+}
+.g2 {
+    text-align: center;
+}
