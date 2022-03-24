@@ -2,7 +2,7 @@
     $pizza=array(   
         0=>array(   
             "img"=>"zupa2.png",
-            "name"=>"rosol",
+            "name"=>"ros ol",
             "date"=>"2022-04-25"),
         1=>array(   
             "img"=>"zupa.png",

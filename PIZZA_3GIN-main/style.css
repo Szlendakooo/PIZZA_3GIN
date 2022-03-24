@@ -141,3 +141,12 @@ html,body {
       width: 100%;
     }
   }
+
+#jedzenie .card{
+  border:none;
+  
+}
+#kolor {
+  background-color: rgb(248, 175, 39);
+  border-color: rgb(248, 175, 39);
+}
